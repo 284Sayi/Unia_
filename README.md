@@ -21,5 +21,5 @@ cd UniaTOOLS
 ```
 
 ```python
-python unia_launch.py
+python unia.main.py
 ```
